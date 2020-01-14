@@ -1,4 +1,16 @@
 {
   "name": "Small Sharp Tool",
   "description": "This app does one little thing, and does it well.",
+  
+}uildpacks can also be used as a URL.
+
+{
+  "buildpacks": [
+
+
+
+    {
+      "url": "heroku/python"
+    }
+  ]
 }
